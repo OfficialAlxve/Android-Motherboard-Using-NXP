@@ -1,5 +1,6 @@
 # Android-Motherboard-Using-NXP
 A mini android motherboard made by me using the NXP I.MX i8 Mini Processor and a EMCP.
+  
 Top:
 <img width="877" height="367" alt="top" src="https://github.com/user-attachments/assets/b29bcfbd-3aab-4018-9400-8067e5b85fbb" />
 
